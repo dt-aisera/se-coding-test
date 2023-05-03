@@ -4,7 +4,7 @@
 
 ## Requirements
 
-SE candidates will be required to build and deliver a simple program.  You can use any programming language but Javascript, Python, and/or Powershell/Bash are preferred.
+SE candidates will be required to build and deliver a simple program.  You can use any programming language(s) but Javascript and/or Python are preferred.
 
 Candidates should fork this repo to deliver their project.
 
