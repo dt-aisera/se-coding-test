@@ -8,4 +8,4 @@ SE candidates will be required to build and deliver a simple program.  You can u
 
 Create a [Rapid API](https://rapidapi.com/apidojo/api/yahoo-finance1/) account and write a program that gets data from a REST endpoint and writes it somewhere else.
 
-Example: *Use the Yahoo Finance `GET market/v2/get-movers` API endpoint to retrieve the top stock movers and write them (in easily readable format) to a local .txt document.
+Example: *Use the Yahoo Finance `GET market/v2/get-movers` API endpoint to retrieve the top stock movers and write them (in easily readable format) to a local .txt document.*
