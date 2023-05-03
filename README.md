@@ -1,5 +1,7 @@
 # Aisera Coding Test
 
+![aiseraLogoLong.png](images/aiseraLogoLong.png)
+
 ## Requirements
 
 SE candidates will be required to build and deliver a simple program.  You can use any programming language but Javascript, Python, and/or Powershell/Bash are preferred.
