@@ -15,3 +15,6 @@ Create a [Rapid API](https://rapidapi.com) account and write a program that gets
 Note - You don't necessarily have to use Rapid API - it can be any API endpoint.  Feel free to get creative.
 
 Example: *Use the Yahoo Finance `GET market/v2/get-movers` API endpoint to retrieve the top stock movers and write them (in easily readable format) to a local .txt document.*
+
+
+Additionally, include a README.md with a description of what your script does, instructions on how to use it.  Also include a recording of yourself giving a brief live demo of the solution in action.
