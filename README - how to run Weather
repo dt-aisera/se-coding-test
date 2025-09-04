@@ -1,3 +1,6 @@
+// This README file is to provide info on how run weather.js with the intent 
+// gets data from a REST endpoint and writes it somewhere else (i.e. text file, weather_report) 
+
 The weather.js run on a local machine, a laptop.
 Create a folder, on a local machine. let's called it weatherRun.  In the folder run "command npm init", like the following:
     bash-3.2$ npm init.
