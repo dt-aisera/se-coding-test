@@ -1,0 +1,20 @@
+The weather.js run on a local machine, a laptop.
+Create a folder, on a local machine. let's called it weatherRun.  In the folder run "command npm init", like the following:
+    bash-3.2$ npm init.
+inside the weatherRun directory, create a file weather.js with the weather.js code shown in this github.
+Once completed, then run "node weather.js" from the cmd line as follow:
+    bash-3.2$ node weather.js
+it would then produce a file called weather_report.txt like the following:
+   bash-3.2$ node weather.js 
+   ✅ Weather report saved to weather_report.txt
+The output can be viewed by cmd: cat weather_report.txt
+      bash-3.2$ cat weather_report.txt 
+      Weather Report for London, City of London, Greater London, United Kingdom
+      Date/Time: 2025-09-04 06:13
+
+      Condition: Patchy rain nearby
+      Temperature: 13.4°C (56.1°F)
+      Feels Like: 12.3°C (54.2°F)
+      Humidity: 94%
+      Wind: 13 kph from SSE
+bash-3.2$ 
